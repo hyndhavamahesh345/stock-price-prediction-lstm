@@ -80,17 +80,6 @@ Saved under `plots/`:
 
 ---
 
-## 📦 Project Files
-
-| File | Description |
-|------|-------------|
-| `stock_predictor.py` | Main implementation script |
-| `MSFT_lstm_model.weights.h5` | Saved model weights |
-| `plots/` folder | Contains all output graphs |
-| `README.md` | Project documentation |
-
----
-
 ## 🧠 Key Learnings
 
 - Gained experience in **time-series forecasting** with LSTM.
